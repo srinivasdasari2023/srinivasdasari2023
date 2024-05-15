@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AI & Data scientist and Business consultant
 --------------------------------------
 
-I am an accomplished data scientist skilled in optimizing telecom and supply chain operations. My expertise in Snowflake and Generative AI enhances data management, content generation, and decision-making. I aim to apply these skills to drive efficiency and innovation in both domains.
+I am an accomplished data scientist skilled in optimizing telecom and supply chain and Retails operations. My expertise in Cloud  and Generative AI enhances data management, content generation, and decision-making. I aim to apply these skills to drive efficiency and innovation in both domains.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [srinivasdasari2023@gmail.com](mailto:srinivasdasari2023@gmail.com)

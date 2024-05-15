@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Srinivas Dasari
 =======================================================================================================================================
 
-Data scientist and Business consultant
+AI & Data scientist and Business consultant
 --------------------------------------
 
 I am an accomplished data scientist skilled in optimizing telecom and supply chain operations. My expertise in Snowflake and Generative AI enhances data management, content generation, and decision-making. I aim to apply these skills to drive efficiency and innovation in both domains.

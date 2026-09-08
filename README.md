@@ -1,7 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Srinivas Dasari
 =======================================================================================================================================
 
-Data Analyst & Data scientist and GenAI Business consultant
+Lead Data Engineer | Azure & Microsoft Fabric | Data Analyst |
+
 --------------------------------------
 
 I am a results-driven Data Scientist with a strong track record of delivering operational excellence in the telecommunications, supply chain, and retail domains. Leveraging advanced expertise in cloud computing and Generative AI, I specialize in transforming complex data into actionable insights, automating content generation, and enhancing strategic decision-making. My goal is to drive innovation, efficiency, and business value through data-centric solutions and emerging technologies.

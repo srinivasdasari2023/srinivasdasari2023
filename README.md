@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Lead Data Engineer | Azure & Microsoft Fabric | Data Analyst |
 
 --------------------------------------
-
+Lead Data Engineer / Technical Lead with 20+ years of IT experience, including 5+ years of hands-on Azure Data Engineering and deep IBM AS/400 expertise. Strong in Azure Data Factory, Azure Databricks, PySpark, Delta Lake, Azure Synapse, Microsoft Fabric and ADLS Gen2, backed by extensive RPGLE, DB2/400, CLLE and SYNON experience. Experienced in cloud data engineering, Lakehouse modernization, legacy-to-cloud integration, production support, technical design and global stakeholder collaboration
 I am a results-driven Data Scientist with a strong track record of delivering operational excellence in the telecommunications, supply chain, and retail domains. Leveraging advanced expertise in cloud computing and Generative AI, I specialize in transforming complex data into actionable insights, automating content generation, and enhancing strategic decision-making. My goal is to drive innovation, efficiency, and business value through data-centric solutions and emerging technologies.
 
 * 🌍  I'm based in India
